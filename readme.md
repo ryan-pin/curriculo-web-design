@@ -4,6 +4,6 @@
 
 ### Imagen
 #### page
-![section](curriculo-web-design/img/01.jpg)
-![section](curriculo-web-design/img/02.jpg)
-![section](curriculo-web-design/img/03.jpg)
+![section](img/01.jpg)
+![section](img/02.jpg)
+![section](img/03.jpg)
